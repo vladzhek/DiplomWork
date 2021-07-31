@@ -1,0 +1,328 @@
+I:\БАЗЫ ДАННЫХ\!курсач БД\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+H:\БАЗЫ ДАННЫХ\!курсач БД\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+H:\БАЗЫ ДАННЫХ\!курсач БД\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+H:\БАЗЫ ДАННЫХ\!курсач БД\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+H:\БАЗЫ ДАННЫХ\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojResolveAssemblyReference.cache
+H:\БАЗЫ ДАННЫХ\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form1.resources
+H:\БАЗЫ ДАННЫХ\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Properties.Resources.resources
+H:\БАЗЫ ДАННЫХ\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.GenerateResource.Cache
+H:\БАЗЫ ДАННЫХ\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+H:\БАЗЫ ДАННЫХ\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\bin\Debug\dbStud.mdf
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\bin\Debug\dbStud_log.ldf
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojAssemblyReference.cache
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form1.resources
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_add.resources
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Properties.Resources.resources
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.GenerateResource.cache
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CoreCompileInputs.cache
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_edit.resources
+E:\D_disk\COLLEDGE\!курсач БД\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_delet.resources
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\bin\Debug\dbStud.mdf
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\bin\Debug\dbStud_log.ldf
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojResolveAssemblyReference.cache
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form1.resources
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_add.resources
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_delet.resources
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_edit.resources
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Properties.Resources.resources
+H:\БАЗЫ ДАННЫХ\!курсач БД\!Покажи им это\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.GenerateResource.Cache
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form1.resources
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_add.resources
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_delet.resources
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_edit.resources
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Properties.Resources.resources
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.GenerateResource.cache
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CoreCompileInputs.cache
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.ResolveComReference.cache
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_doc.resources
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojAssemblyReference.cache
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\dbStud.mdf
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\dbStud_log.ldf
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_spavochnik.resources
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_analytics.resources
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\RdlCompile.cache
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\RdlCompile.compiled
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\EnvDTE.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\stdole.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\EnvDTE80.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\VSLangProj.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\VSLangProj80.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.MSXML.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\VSLangProj2.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CopyComplete
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.ResolveComReference.cache
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\dbStud.mdf
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\dbStud_log.ldf
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojResolveAssemblyReference.cache
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form1.resources
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_add.resources
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_analytics.resources
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_delet.resources
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_doc.resources
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_edit.resources
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_spavochnik.resources
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Properties.Resources.resources
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.GenerateResource.Cache
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\RdlCompile.cache
+f:\!ДИПЛОМ\StudentsApp\StudentsApp\obj\Debug\RdlCompile.compiled
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.ResolveComReference.cache
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\bin\Debug\dbStud.mdf
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\bin\Debug\dbStud_log.ldf
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form1.resources
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_add.resources
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_analytics.resources
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_delet.resources
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_doc.resources
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_edit.resources
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_spavochnik.resources
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Properties.Resources.resources
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.GenerateResource.Cache
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\RdlCompile.cache
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\RdlCompile.compiled
+c:\Users\User\Downloads\StudentsApp (2)\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojResolveAssemblyReference.cache
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojAssemblyReference.cache
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.ResolveComReference.cache
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form1.resources
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_add.resources
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_analytics.resources
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_delet.resources
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_doc.resources
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_edit.resources
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_spavochnik.resources
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Properties.Resources.resources
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.GenerateResource.cache
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\RdlCompile.cache
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\RdlCompile.compiled
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CoreCompileInputs.cache
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\dbStud.mdf
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\dbStud_log.ldf
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CopyComplete
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\dbStud.mdf
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\dbStud_log.ldf
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojAssemblyReference.cache
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.ResolveComReference.cache
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form1.resources
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_add.resources
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_analytics.resources
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_delet.resources
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_doc.resources
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_edit.resources
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Form_spavochnik.resources
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.Properties.Resources.resources
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.GenerateResource.cache
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\RdlCompile.cache
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\RdlCompile.compiled
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CoreCompileInputs.cache
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CopyComplete
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+E:\!ДИПЛОМ\New_\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
